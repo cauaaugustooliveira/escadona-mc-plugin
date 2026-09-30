@@ -1,0 +1,8 @@
+.gradle/
+build/
+out/
+run/
+run-data/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml

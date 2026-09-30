@@ -1,0 +1,23 @@
+[29set.2026 15:33:12.833] [Test worker/DEBUG] [io.netty.util.internal.logging.InternalLoggerFactory/]: Using SLF4J as the default logging framework
+[29set.2026 15:33:12.836] [Test worker/DEBUG] [io.netty.util.ResourceLeakDetector/]: -Dio.netty.leakDetection.level: simple
+[29set.2026 15:33:12.836] [Test worker/DEBUG] [io.netty.util.ResourceLeakDetector/]: -Dio.netty.leakDetection.targetRecords: 4
+[29set.2026 15:33:14.398] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent0/]: -Dio.netty.noUnsafe: false
+[29set.2026 15:33:14.399] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent0/]: Java version: 21
+[29set.2026 15:33:14.400] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent0/]: sun.misc.Unsafe.theUnsafe: available
+[29set.2026 15:33:14.401] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent0/]: sun.misc.Unsafe base methods: all available
+[29set.2026 15:33:14.401] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent0/]: sun.misc.Unsafe.storeFence: available
+[29set.2026 15:33:14.402] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent0/]: java.nio.Buffer.address: available
+[29set.2026 15:33:14.404] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent0/]: java.nio.Bits.unaligned: available, true
+[29set.2026 15:33:14.405] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent0/]: java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+[29set.2026 15:33:14.406] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent/]: sun.misc.Unsafe: available
+[29set.2026 15:33:14.406] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent/]: -Dio.netty.tmpdir: C:\Users\caeol\AppData\Local\Temp (java.io.tmpdir)
+[29set.2026 15:33:14.406] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent/]: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[29set.2026 15:33:14.407] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent/]: Platform: Windows
+[29set.2026 15:33:14.407] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent/]: -Dio.netty.maxDirectMemory: -1 bytes
+[29set.2026 15:33:14.407] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent/]: -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[29set.2026 15:33:14.408] [Test worker/DEBUG] [io.netty.util.internal.CleanerJava9/]: java.nio.ByteBuffer.cleaner(): available
+[29set.2026 15:33:14.408] [Test worker/DEBUG] [io.netty.util.internal.PlatformDependent/]: -Dio.netty.noPreferDirect: false
+[29set.2026 15:33:16.854] [Test worker/INFO] [me.oredev.escadona.Escadona/]: Tracking Lucky Block 6be0aac7-84f4-4cb6-827e-5f185f290a91 at TrackedBlockKey[dimension=ResourceKey[minecraft:dimension / minecraft:overworld], position=BlockPos{x=0, y=64, z=1}] for owner 5ee15a82-e417-460a-bdd0-44f6a1f1f9ef, lane a, section 1
+[29set.2026 15:33:16.855] [Test worker/INFO] [me.oredev.escadona.Escadona/]: Tracking Lucky Block 761f036f-35a7-41e3-9aed-e009b12f6e4f at TrackedBlockKey[dimension=ResourceKey[minecraft:dimension / minecraft:overworld], position=BlockPos{x=1, y=64, z=1}] for owner 5ee15a82-e417-460a-bdd0-44f6a1f1f9ef, lane a, section 1
+[29set.2026 15:33:16.871] [Test worker/INFO] [me.oredev.escadona.Escadona/]: Tracking Lucky Block 857d8650-d953-45f1-893a-92d03f993274 at TrackedBlockKey[dimension=ResourceKey[minecraft:dimension / minecraft:overworld], position=BlockPos{x=0, y=64, z=2}] for owner 9779c927-a5c9-496c-a660-24ba01955134, lane c, section 2
+[29set.2026 15:33:16.872] [Test worker/INFO] [me.oredev.escadona.Escadona/]: Tracking Lucky Block 01b1c097-105d-494b-88f3-54c6214d439e at TrackedBlockKey[dimension=ResourceKey[minecraft:dimension / minecraft:overworld], position=BlockPos{x=1, y=64, z=2}] for owner 9779c927-a5c9-496c-a660-24ba01955134, lane c, section 2

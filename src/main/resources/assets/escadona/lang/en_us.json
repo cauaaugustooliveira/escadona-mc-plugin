@@ -1,0 +1,5 @@
+{
+  "escadona.command.player_only": "This command can only be used by a player.",
+  "escadona.tracker.not_lucky_block": "The targeted block is not the configured Lucky Block.",
+  "escadona.tracker.not_owner": "This required Lucky Block belongs to another player."
+}
